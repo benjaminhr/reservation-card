@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+
+html {
+  box-sizing: border-box;
+  margin:0 auto;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color:rgb(244,244,244);
+  background-size:cover;
+  font-family: 'Oswald', sans-serif;
+}
+
+#card {
+  width:450px;
+  height:700px;
+  background-color:white;
+  position:absolute;
+  left:0; right:0;
+  top:0; bottom:0;
+  margin:auto;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+#navigation {
+  margin-top:50px;
+  margin-left:50px;
+  margin-right:50px;
+}
+
+#back {
+  width:28px;
+  float:left;
+}
+
+#search {
+  width:40px;
+  float:right;
+  padding-top:4px;
+}
+
+#photo {
+  width:120px;
+  display:block;
+  margin:0 auto;
+  margin-top:89px;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.25), 0 4px 4px rgba(0,0,0,0.22);
+  border-radius:100px;
+  margin-bottom:0.7em;
+}
+
+#text {
+  position:absolute;
+  left:132px;
+}
+
+#water-club-text {
+  color:rgba(105,105,105,1);
+  font-size:25px;
+  letter-spacing: 2px;
+  font-weight:300;
+}
