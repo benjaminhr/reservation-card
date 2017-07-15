@@ -1,4 +1,4 @@
-<img src='https://i.imgur.com/oxXpUDY.png' style='width:200px'>
+<img src='https://i.imgur.com/oxXpUDY.png' style='width:50px'>
 
 # Reservation Card
 
