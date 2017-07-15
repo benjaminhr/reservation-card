@@ -1,4 +1,4 @@
-<img src='https://i.imgur.com/YsC7gUt.png' width:'200'>
+![alt](https://i.imgur.com/YsC7gUt.png)
 
 # Reservation Card
 
