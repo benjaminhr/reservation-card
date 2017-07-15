@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,400,700');
 
 html {
   box-sizing: border-box;
@@ -53,14 +53,66 @@ body {
   margin-bottom:0.7em;
 }
 
-#text {
-  position:absolute;
-  left:132px;
-}
-
 #water-club-text {
   color:rgba(105,105,105,1);
   font-size:25px;
   letter-spacing: 2px;
-  font-weight:300;
+  font-weight:400;
+  position:absolute;
+  left:132px;
+}
+
+#table {
+  opacity:0.6;
+  font-size:20px;
+  font-weight:200;
+  letter-spacing: 0.8px;
+  text-align:center;
+  padding-top:90px;
+  margin-bottom:0px;
+}
+
+#counter {
+  display:flex;
+  flex-direction: row;
+  justify-content:space-between;
+  width:100px;
+  margin-left:160px;
+  height:100px;
+}
+
+#num {
+  margin-top:0px;
+  font-size:60px;
+  opacity:0.4;
+}
+
+#plus {
+  padding-left:30px;
+  padding-top:10px;
+  margin-top:0px;
+  font-size:50px;
+}
+
+#minus {
+  padding-right:30px;
+  margin-top:0px;
+  font-size:60px;
+  line-height:82px;
+  vertical-align:center,
+}
+
+#choose-date{
+  font-weight:200;
+  letter-spacing: 2px;
+  text-align:center;
+  padding-left:8px;
+  font-size:15px;
+}
+
+#date-picker{
+  text-align:center;
+  font-size:20px;
+  padding-left:8px;
+  margin-top:0px;
 }
