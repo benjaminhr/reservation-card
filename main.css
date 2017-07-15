@@ -60,6 +60,7 @@ body {
   font-weight:400;
   position:absolute;
   left:132px;
+  padding-left:1px;
 }
 
 #table {
@@ -93,6 +94,7 @@ body {
   padding-top:10px;
   margin-top:0px;
   font-size:50px;
+  user-select:none
 }
 
 #minus {
@@ -100,7 +102,8 @@ body {
   margin-top:0px;
   font-size:60px;
   line-height:82px;
-  vertical-align:center,
+  vertical-align:center;
+  user-select:none
 }
 
 #choose-date{
