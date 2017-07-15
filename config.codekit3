@@ -9,11 +9,33 @@
 	],
 "creatorBuild": "25849",
 "files": {
-	"\/back.png": {
+	"\/assets\/back.png": {
 		"ft": 32768,
 		"iS": 6152,
 		"oA": 0,
-		"oAP": "\/back.png",
+		"oAP": "\/assets\/back.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/photo.png": {
+		"ft": 32768,
+		"iS": 107756,
+		"oA": 0,
+		"oAP": "\/assets\/photo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/search.png": {
+		"ft": 32768,
+		"iS": 5463,
+		"oA": 0,
+		"oAP": "\/assets\/search.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -45,17 +67,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/photo.png": {
-		"ft": 32768,
-		"iS": 107756,
-		"oA": 0,
-		"oAP": "\/photo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -73,17 +84,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/search.png": {
-		"ft": 32768,
-		"iS": 5463,
-		"oA": 0,
-		"oAP": "\/search.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		}
 	},
 "hooks": [

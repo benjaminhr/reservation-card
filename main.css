@@ -13,6 +13,7 @@ body {
   background-color:rgb(244,244,244);
   background-size:cover;
   font-family: 'Oswald', sans-serif;
+  user-select: none;
 }
 
 #card {
@@ -94,7 +95,6 @@ body {
   padding-top:10px;
   margin-top:0px;
   font-size:50px;
-  user-select:none
 }
 
 #minus {
@@ -103,7 +103,6 @@ body {
   font-size:60px;
   line-height:82px;
   vertical-align:center;
-  user-select:none
 }
 
 #choose-date{

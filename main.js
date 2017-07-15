@@ -4,13 +4,15 @@ var minus = document.querySelector('#minus');
 var counter = 0;
 
 plus.addEventListener('click', function() {
-  counter++;
+  if(counter <= 9){
+    counter++;
+  };
   number.innerHTML = counter;
 })
 
 minus.addEventListener('click', function() {
   if(counter >= 1){
-    counter --;
+    counter--;
   };
   number.innerHTML = counter;
 })
